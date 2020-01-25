@@ -1,0 +1,13 @@
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.exe
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.csprojAssemblyReference.cache
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.AssemblyInfoInputs.cache
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.AssemblyInfo.cs
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.deps.json
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.runtimeconfig.json
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.runtimeconfig.dev.json
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.dll
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\GitHub.pdb
+C:\Users\maarj\OneDrive\Töölaud\GitHub\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.csproj.CopyComplete
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.dll
+C:\Users\maarj\OneDrive\Töölaud\GitHub\obj\Debug\netcoreapp3.1\GitHub.pdb
